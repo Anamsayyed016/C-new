@@ -15,6 +15,8 @@ int main()
     cout<<"\n store data are\n";
 
     for(int i=0;i<s;i++)
+    if(arr[i]%2!=0)
+    
     // 2nd loop for output
     {
         cout<<arr[i]<<"\t";
@@ -22,3 +24,7 @@ int main()
     }
     
 }
+// wap to display only even value in given array
+// wap to display minimum  value in array
+// wap to display max value in an array\
+// wap to display the sum of values of an array
