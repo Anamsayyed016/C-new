@@ -24,7 +24,7 @@ int main()
     }
     
 }
-// wap to display only even value in given array
-// wap to display minimum  value in array
-// wap to display max value in an array\
-// wap to display the sum of values of an array
+// wap to display only even value in given array.
+// wap to display minimum  value in array.
+// wap to display max value in an array.
+// wap to display the sum of values of an array.
